@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "695075204491",
+    "firebase_url": "https://holachatproj.firebaseio.com",
+    "project_id": "holachatproj",
+    "storage_bucket": "holachatproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695075204491:android:8ce2f8478849ddd3",
+        "android_client_info": {
+          "package_name": "in.ghonchu.holamessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695075204491-rk9v8itum73rt9fu7jbgh6ivjvqgduui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ghonchu.holamessenger",
+            "certificate_hash": "a19dec47c42954c23a9ccb81316f0de1b50c950e"
+          }
+        },
+        {
+          "client_id": "695075204491-rgba3nd6egqjfob7gsrgap43l5hh7dd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuuMapjOOUDRz1X_uAi1zR5wCWM5jB8_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695075204491-rgba3nd6egqjfob7gsrgap43l5hh7dd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695075204491:android:64fcda983dc166a7",
+        "android_client_info": {
+          "package_name": "in.tvac.akshaye.lapitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695075204491-h26qaf3idev400lffpjln0fu51iajvdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.tvac.akshaye.lapitchat",
+            "certificate_hash": "a19dec47c42954c23a9ccb81316f0de1b50c950e"
+          }
+        },
+        {
+          "client_id": "695075204491-rgba3nd6egqjfob7gsrgap43l5hh7dd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuuMapjOOUDRz1X_uAi1zR5wCWM5jB8_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695075204491-rgba3nd6egqjfob7gsrgap43l5hh7dd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695075204491:android:eceebcd49d0ba1e9",
+        "android_client_info": {
+          "package_name": "com.dopechat.grv.dopechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695075204491-6hef88g688bojkvk0bhscgg6988d63r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dopechat.grv.dopechat",
+            "certificate_hash": "dbe71a7b8c31c2c6a60a31aebe853a616d7050c4"
+          }
+        },
+        {
+          "client_id": "695075204491-rgba3nd6egqjfob7gsrgap43l5hh7dd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuuMapjOOUDRz1X_uAi1zR5wCWM5jB8_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695075204491-rgba3nd6egqjfob7gsrgap43l5hh7dd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

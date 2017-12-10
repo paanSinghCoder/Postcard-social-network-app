@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dope Chat</string>
+    <string name="phone_number_input_hint">Enter mobile number</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_chat">Chats</string>
+    <string name="title_postcard">Postcard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+
+
+</resources>
